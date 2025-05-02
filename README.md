@@ -38,12 +38,12 @@ Criar **interfaces completas com Blade (Laravel)** e **Bootstrap** para todos os
 
 ## DICAS:
 ## 🗂️ Estrutura Esperada das Views
-
-resources/
-└── views/
-└── [nome-modelo]/
-├── index.blade.php
-├── create.blade.php
-├── edit.blade.php
-└── show.blade.php
-
+```
+   resources/
+   └── views/
+   └── [nome-modelo]/
+   ├── index.blade.php
+   ├── create.blade.php
+   ├── edit.blade.php
+   └── show.blade.php
+```
