@@ -1,4 +1,4 @@
-# 🛠️ Atividade Prática – CRUD Completo Laravel, Blade e Bootstrap
+# 🛠️ Atividade Prática – Laravel, Blade e Bootstrap
 
 
 Criar **interfaces completas com Blade (Laravel)** e **Bootstrap** para todos os modelos abaixo, com **CRUD funcional**, conectado aos **controllers e validações já criadas** nas atividades anteriores.
